@@ -1,0 +1,13 @@
+{
+  "name": "effective-typescript",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc",
+    "compile": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "@types/node": "^14.11.2"
+  }
+}
